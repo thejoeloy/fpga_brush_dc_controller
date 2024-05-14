@@ -1,1 +1,1 @@
-# Arty A7 Brushless DC Motor Controller
+# Arty A7 Brush DC Motor Controller
